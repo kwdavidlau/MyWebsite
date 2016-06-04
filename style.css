@@ -1,0 +1,66 @@
+h1{
+	text-decoration: underline;
+}
+
+/*ul:hover{
+	background-color:yellow;
+	width: 6em;
+}
+*/
+.images {
+	height: 200px;
+	width: 200px;
+	border-radius: 5px;
+	box-shadow: 5px 5px 5px #888888;
+}
+.mark{
+	background-color: beige;
+}
+body {
+	background-color:beige;
+}
+
+
+
+body > p{
+	color:blue;
+	width:500px;
+	border: 1px dotted black;
+}
+
+table td{
+	border: 1px dotted black;
+}
+
+.tabletitle{
+	text-align:center;
+	font-size: 20px;
+	font-style: italic;
+	font-family: Verdana;
+	color: blue;
+}
+
+table p{
+	padding: 15px;
+}
+
+section {
+	font-family: Garamond;
+}
+
+.box {
+    list-style-type: none;
+    background: #eeeeee;
+	border-radius: 5px;
+	border: 1px solid black;
+	font-family: Garamond;
+	width: 250px;
+	margin-right: 35px;
+
+}
+
+/*
+ul .ui-selected {
+	background: #F39814; color: white;
+}
+*/
